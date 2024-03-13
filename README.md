@@ -12,6 +12,7 @@ https://console.cloud.google.com/marketplace/product/bigquery-public-data/theloo
 - **Products table**: Records details of products sold on The Look, including price, brand, and product categories.
 
 **Create metric for the team**
+
 Assume my team needs to build a dashboard and requires data preprocessing before connecting to a BI tool. After discussion, my team decides on the necessary metrics for the dashboard and needs to extract data from the database to generate a dataset as described in the dataset requirements.
 ![image](https://github.com/QuynhNhu0810/Ecommerce-Dataset/assets/144129608/0606fb9f-ef4a-47d2-a51c-664a9e761c24)
 
