@@ -11,6 +11,9 @@ https://console.cloud.google.com/marketplace/product/bigquery-public-data/theloo
 - **Order_items table**: Records the list of items purchased in each order ID.
 - **Products table**: Records details of products sold on The Look, including price, brand, and product categories.
 
+**Create metric for the team**
+Assume my team needs to build a dashboard and requires data preprocessing before connecting to a BI tool. After discussion, my team decides on the necessary metrics for the dashboard and needs to extract data from the database to generate a dataset as described in the dataset requirements.
+![image](https://github.com/QuynhNhu0810/Ecommerce-Dataset/assets/144129608/9caa7ca1-6cd0-4f3a-854f-65cf15b559fe)
 
 **MAIN CONCLUSION**
 
@@ -35,7 +38,7 @@ This dynamic chart allows you to visualize the total revenue by day for each pro
 
 I want to see the top 5 products with the highest profits for each month. You can use the slicer to choose a specific month-year. This feature offers both an overview and detailed performance for the chosen time period, supporting further analysis.
 
-**Retention Cohort**
+**Retention Cohort Analysis**
 
 ![image](https://github.com/QuynhNhu0810/Ecommerce-Dataset/assets/144129608/ee0a1871-29d3-4475-8f28-a0dd00ce498a)
 
