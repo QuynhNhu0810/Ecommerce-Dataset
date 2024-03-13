@@ -37,11 +37,9 @@ I want to see the top 5 products with the highest profits for each month. You ca
 
 **Retention Cohort**
 
-*Create metric*
-
 ![image](https://github.com/QuynhNhu0810/Ecommerce-Dataset/assets/144129608/ee0a1871-29d3-4475-8f28-a0dd00ce498a)
 
-For each cohort, track only the first 3 months (indexed from 1 to 4). 
+For each cohort, I only track the first 3 months (indexed from 1 to 4). 
 The cohorts from 2019 to the first half of 2022 had a very low retention rate over the years, ranging from 1 to 4%. However, this rate improved in the group from the second half of 2022 to 2023, increasing to 5-18%.
 
 *Proposed actions:*
