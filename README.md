@@ -11,12 +11,6 @@ https://console.cloud.google.com/marketplace/product/bigquery-public-data/theloo
 - **Order_items table**: Records the list of items purchased in each order ID.
 - **Products table**: Records details of products sold on The Look, including price, brand, and product categories.
 
-**Create metric for the team**
-
-Assume my team needs to build a dashboard and requires data preprocessing before connecting to a BI tool. After discussion, my team decides on the necessary metrics for the dashboard and needs to extract data from the database to generate a dataset as described in the dataset requirements.
-![image](https://github.com/QuynhNhu0810/Ecommerce-Dataset/assets/144129608/0606fb9f-ef4a-47d2-a51c-664a9e761c24)
-
-
 **MAIN CONCLUSION**
 
 **EDA**
@@ -53,3 +47,10 @@ The cohorts from 2019 to the first half of 2022 had a very low retention rate ov
 - Conduct surveys and gather feedback to understand why some cohorts have low retention rates.
 - Develop marketing campaigns and promotions to attract customers with low retention rates.
 - Consider loyalty programs or special offers to retain customers in new cohorts.
+
+
+**Ad-hoc task**
+
+Assume my team needs to build a dashboard and requires data preprocessing before connecting to a BI tool. After discussion, my team decides on the necessary metrics for the dashboard and needs to extract data from the database to generate a dataset as described in the dataset requirements.
+![image](https://github.com/QuynhNhu0810/Ecommerce-Dataset/assets/144129608/0606fb9f-ef4a-47d2-a51c-664a9e761c24)
+
